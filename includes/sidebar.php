@@ -20,7 +20,10 @@
                                 <i class="fa fa-users"></i>Manage Visitors</a>
                         </li>
 
-                        
+                     <li>
+                            <a href="bwdates-reports.php"  style="color: blue">
+                                <i class="fas fa-copy"></i>Vistors B/w Massage</a>
+                        </li>       
                       <li>
                             <a href="bwdates-reports.php"  style="color: blue">
                                 <i class="fas fa-copy"></i>Vistors B/w Dates</a>
